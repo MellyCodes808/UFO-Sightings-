@@ -18,6 +18,8 @@ To preform a search :
 
 2 In the filter options, simply enter your criteria and click outside the text box to show results. Multiple criterion can be added and to delta filters just delete text.
 
+![alt text](https://github.com/MellyCodes808/UFO-Sightings-/blob/main/static/images/how%20to%20use%20filters.png)
+
 
 Summary:
 
